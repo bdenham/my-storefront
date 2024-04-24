@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: hhttps://adobe.sharepoint.com/:f:/r/sites/storefront-site/Shared%20Documents/my-storefront?csf=1&web=1&e=4ScTXL
 
 folders:
   /products/: /products/default
